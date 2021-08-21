@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HARSHITA1111
 - 👀 I’m interested in ML,AI,Neural Networks and Blockchain. 
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on ML and Blockchain
+- 🌱 I’m currently learning Blockchain.
+- 💞️ I’m looking to collaborate on ML and Blockchain projects.
 - 📫 How to reach me: https://www.linkedin.com/in/n-harshita-a774981a6/ 
 
 <!---
